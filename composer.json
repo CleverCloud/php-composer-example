@@ -9,5 +9,8 @@
             "name": "me",
             "email": "me@cc.com"
         }
-    ]
+    ],
+    "scripts": {
+        "post-install-cmd": "sh ./scripts/install.sh"
+    }
 }
