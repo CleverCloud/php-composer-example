@@ -1,0 +1,13 @@
+{
+    "name": "cc/test",
+    "description": "test",
+    "require": {
+        "shuber/curl": "~1.0"
+    },
+    "authors": [
+        {
+            "name": "me",
+            "email": "me@cc.com"
+        }
+    ]
+}
