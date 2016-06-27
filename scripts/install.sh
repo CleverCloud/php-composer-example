@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# source environment variables
+# https://www.clever-cloud.com/doc/admin-console/environment-variables/
 source /home/bas/applicationrc
 
 echo "Run npm install && grunt"
